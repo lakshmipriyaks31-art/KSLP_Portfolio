@@ -10,7 +10,7 @@ export const skills = {
     "PM2",
     "Vercel",
     "Render",
-    "AWS S3 (Basic)",
+    "AWS",
   ],
   Tools: ["Git", "GitHub", "Postman"],
   Additional: ["React Native", "Web3.js", "WalletConnect SDK"],
