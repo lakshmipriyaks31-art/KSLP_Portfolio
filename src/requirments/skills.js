@@ -1,7 +1,7 @@
 export const skills = {
   Languages: ["JavaScript", "TypeScript (Basic)"],
   Frontend: ["React.js", "HTML5", "CSS3", "Redux"],
-  Backend: ["Node.js", "Express.js", "REST APIs", "JWT", "RBAC","Microservices"],
+  Backend: ["Node.js", "Express.js", "REST APIs", "JWT", "RBAC"],
   Database: ["MongoDB", "Indexing", "Aggregation Pipelines"],
   Testing: ["Jest", "API Testing", "Supertest"],
   "Cloud & DevOps": [
