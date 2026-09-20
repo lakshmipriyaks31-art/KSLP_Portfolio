@@ -182,7 +182,7 @@ function App() {
               </li>
               <li>
                 Developed unit/API tests using Jest and Supertest and supported
-                Jenkins-based CI/CD with DevOps.
+                CI/CD with DevOps.
               </li>
               <li>
                 Led 8–10 developers and coordinated technical implementation,
