@@ -5,7 +5,6 @@ export const skills = {
   Database: ["MongoDB", "Indexing", "Aggregation Pipelines"],
   Testing: ["Jest", "API Testing", "Supertest"],
   "Cloud & DevOps": [
-    "Jenkins",
     "CI/CD",
     "PM2",
     "Vercel",
