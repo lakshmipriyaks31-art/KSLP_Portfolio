@@ -1,4 +1,4 @@
-ppexport const projects = [
+export const projects = [
   {
     title: "YouCab Tranvia",
     subtitle: "Real-time Taxi Booking Application",
