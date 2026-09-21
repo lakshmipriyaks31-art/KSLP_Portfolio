@@ -1,17 +1,17 @@
-export const projects = [
+ppexport const projects = [
   {
     title: "YouCab Tranvia",
     subtitle: "Real-time Taxi Booking Application",
     stack: [
       "React Native",
-      "React.js / Next.js",
+      "React.js",
       "Node.js",
       "Express.js",
       "MongoDB",
     ],
     role: "Led 3 developers",
     bullets: [
-      "Built separate React Native applications for users and drivers with a React.js/Next.js Admin panel.",
+      "Built separate React Native applications for users and drivers with a React.js Admin panel.",
       "Developed REST APIs for authentication, ride booking, driver operations, ratings, notifications, payments and transactions.",
       "Implemented RBAC, driver verification, real-time location tracking, route mapping, ride lifecycle management and in-app chat.",
       "Participated in client requirements and supported production deployment with DevOps.",
