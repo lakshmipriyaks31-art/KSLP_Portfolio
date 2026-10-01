@@ -12,5 +12,5 @@ export const skills = {
     "Render",
     
   ],
-  Version Control: ["Git", "GitHub"]
+  "Version Control": ["Git", "GitHub"]
 };
