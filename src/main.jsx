@@ -108,7 +108,7 @@ function App() {
         {[
           ["4.7+", "Years Experience"],
           ["8–10", "Developers Led"],
-          ["10+", "Client Implementations"],
+          ["13+", "Projects Delivered"],
           ["35%", "API Latency Reduction"],
         ].map(([n, l]) => (
           <div className="stat" key={l}>
@@ -126,15 +126,16 @@ function App() {
           </h2>
           <div className="copy">
             <p>
-              Senior Software Developer with 4.7+ years of experience building
-              scalable full-stack applications using JavaScript, React.js,
-              Node.js, Express.js and MongoDB.
+             Senior Software Developer with 4.7+ years of experience in 
+             full-stack JavaScript development (MERN),specializing in React.js, 
+             React Native, Node.js, Express.js, and MongoDB.
             </p>
             <p>
-              Experienced in REST API development, JWT authentication, RBAC,
-              MongoDB query optimization, unit/API testing and CI/CD. Led
-              development teams and collaborated with clients and
-              cross-functional teams in Agile/Scrum environments.
+              Delivered 13+ applications across NFT, crypto wallet, 
+              food delivery, and real-time taxi booking domains. 
+              Skilled in REST APIs, JWT, RBAC, MongoDB optimization, 
+              testing, CI/CD, Web3, and client collaboration. 
+              development teams of up to 10 developers across multi-client applications. 
             </p>
           </div>
         </div>
@@ -168,26 +169,32 @@ function App() {
             </div>
             <ul>
               <li>
-                Developed scalable MERN applications and reusable platforms
-                customized for multiple client implementations.
+              Built scalable MERN applications using JavaScript, React.js, Node.js, Express.js, and MongoDB across taxi booking, food delivery, decentralized wallet, and NFT marketplace solutions for multiple client implementations and delivered 13+ projects.
               </li>
               <li>
-                Designed secure REST APIs with JWT authentication and RBAC;
-                optimized MongoDB queries, reducing API latency from ~1 sec to
-                ~650 ms (35%).
+                Developed REST APIs with JWT authentication and RBAC for user, driver, product, order, payment, transaction, NFT, and blockchain workflows.
               </li>
               <li>
-                Built reusable React component architecture, reducing code
-                duplication by 40%.
+                Built and enhanced React.js and React Native applications, including user/driver apps and Admin panels with real-time location tracking, route mapping, ride management, notifications, in-app chat, payments, and role-based workflows.
               </li>
               <li>
-                Developed unit/API tests using Jest and Supertest and supported
-                CI/CD with DevOps.
+Developed Web3 applications with wallet creation, blockchain integration, NFT minting, buying, selling, renting, staking, cryptocurrency transactions, and smart-contract integration using React.js/Web3.
+
               </li>
               <li>
-                Led 8–10 developers and coordinated technical implementation,
-                code quality and Agile/Scrum delivery.
+             Optimized MongoDB queries using compound indexes, aggregation pipelines, and query analysis, reducing API latency by ~35% (~1 sec to ~650 ms).
               </li>
+               <li>
+           Improved frontend performance using reusable components, lazy loading, and code splitting, reducing code duplication by 40%, bundle size by ~25–33%, and page-load time by up to 50%.
+   </li>
+               <li>
+           Led development teams of up to 10 developers, coordinating task allocation, technical implementation, code quality, and Agile/Scrum delivery.   </li>
+               <li>
+          Handled client calls, requirement analysis, feature discussions, demos, and feedback coordination across multiple implementations.
+    </li>
+                <li>
+       Developed automated unit and API tests using Jest and Supertest and supported CI/CD workflows and production deployments.
+    </li>
             </ul>
           </div>
         </div>
