@@ -61,7 +61,7 @@ function App() {
           <h1>
             Lakshmi Priya <em>KS</em>
           </h1>
-          <h2>Full-Stack JavaScript · MERN · Node.js · React.js</h2>
+          <h3>Senior Software Developer · MERN · Node.js · React.js</h3>
           <p className="lead">
             4.7+ years building full-stack applications, scalable REST APIs,
             reusable platforms and production applications.
@@ -107,7 +107,7 @@ function App() {
       <section className="stats">
         {[
           ["4.7+", "Years Experience"],
-          ["8–10", "Developers Led"],
+          ["Upto 10", "Developers Led"],
           ["13+", "Projects Delivered"],
           ["35%", "API Latency Reduction"],
         ].map(([n, l]) => (
@@ -281,7 +281,7 @@ Developed Web3 applications with wallet creation, blockchain integration, NFT mi
           Let's build something <em>worth shipping.</em>
         </h2>
         <p>
-          Open to Senior MERN, Node.js Backend and Full-Stack JavaScript
+          Open to Senior Software Developer, MERN, Node.js Backend and Full-Stack JavaScript
           opportunities.
         </p>
         <div className="buttons">
